@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|D:\\AI\\Puzzle\\Puzzle\\Puzzle\\puzzle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|d:\\ai\\puzzle\\puzzle\\puzzle\\puzzle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|d:\\ai\\puzzle\\puzzle\\puzzle\\puzzle\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|d:\\ai\\puzzle\\puzzle\\puzzle\\puzzle\\nhapdothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\nhapdothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|D:\\AI\\Puzzle\\Puzzle\\Puzzle\\puzzle\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A21A9B2-1CF5-4428-8A28-B6B4019B29FA}|Puzzle\\Puzzle.csproj|solutionrelative:puzzle\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\App.config",
+              "RelativeDocumentMoniker": "Puzzle\\App.config",
+              "ToolTip": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\App.config",
+              "RelativeToolTip": "Puzzle\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-20T08:20:01.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapDoThi.cs [Design]",
+              "DocumentMoniker": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\NhapDoThi.cs",
+              "RelativeDocumentMoniker": "Puzzle\\NhapDoThi.cs",
+              "ToolTip": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\NhapDoThi.cs [Design]",
+              "RelativeToolTip": "Puzzle\\NhapDoThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:19:59.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\Form1.cs",
+              "RelativeDocumentMoniker": "Puzzle\\Form1.cs",
+              "ToolTip": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\Form1.cs",
+              "RelativeToolTip": "Puzzle\\Form1.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwIEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:14:14.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AI.cs",
+              "DocumentMoniker": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\AI.cs",
+              "RelativeDocumentMoniker": "Puzzle\\AI.cs",
+              "ToolTip": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\AI.cs",
+              "RelativeToolTip": "Puzzle\\AI.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:16:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\Form1.cs",
+              "RelativeDocumentMoniker": "Puzzle\\Form1.cs",
+              "ToolTip": "D:\\AI\\Puzzle\\Puzzle\\Puzzle\\Puzzle\\Form1.cs [Design]",
+              "RelativeToolTip": "Puzzle\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T09:14:14.696Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
